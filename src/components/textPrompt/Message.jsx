@@ -22,7 +22,7 @@ function Message() {
 
     const options = {
       method: "GET",
-      url: "https://github.com/ctrenfro/openaigpt3front.git.new",
+      url: "https://ctrenfro.github.io/openaigpt3front/new",
       params: {
         prompt: promptInput,
         temperature: value,
